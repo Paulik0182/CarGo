@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">CarGo</string>
+    <string name="first_fragment_label">First Fragment</string>
+
+    <string name="pause_left" translatable="false">M26, 23 V41</string>
+    <string name="pause_right" translatable="false">M37, 23 L37, 32 L37, 41 </string>
+    <string name="pause_right_play" translatable="false">M26, 23 L41, 32 L27, 41 </string>
+    <string name="clockwise_circle" translatable="false">M32, 8 A24, 24 0 1 1 31.99 ,8 z</string>
+    <string name="move_car">Двигать машину</string>
 </resources>
